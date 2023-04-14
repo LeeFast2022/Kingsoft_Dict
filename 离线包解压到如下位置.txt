@@ -1,0 +1,2 @@
+离线包解压到如下位置：
+C:\Users\LF\AppData\Local\
